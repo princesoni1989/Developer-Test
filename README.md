@@ -3,9 +3,9 @@
 
 ## React-Redux Application
 
-* You need to create a basic `CRUD`(_create, receive, update, delete_) Application whcih can use the APIs from [Learncode Academy Sample API](http://rest.learncode.academy/)
+* You need to create a basic `CRUD`(_create, receive, update, delete_) Application which can use the APIs from [Learncode Academy Sample API](http://rest.learncode.academy/)
 * The needs to have the following sections
-  * `List page`, listing all the entities you have in your API (___each person must have a different endpoint they've used___)
+  * `List page`, listing all the entities you have in your API 
   * A `detail page`, The user can click on any of the items and see the details of that item
   * The user can delete the items from the `list page` directly
   * The user should also be able to edit any item, from an `Edit` view
